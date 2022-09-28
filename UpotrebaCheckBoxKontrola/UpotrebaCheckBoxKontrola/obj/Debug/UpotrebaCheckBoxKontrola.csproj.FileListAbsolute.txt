@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\UpotrebaCheckBoxKontrola\UpotrebaCheckBoxKontrola\bin\Debug\UpotrebaCheckBoxKontrola.exe.config
+C:\Users\ucenik\source\repos\UpotrebaCheckBoxKontrola\UpotrebaCheckBoxKontrola\bin\Debug\UpotrebaCheckBoxKontrola.exe
+C:\Users\ucenik\source\repos\UpotrebaCheckBoxKontrola\UpotrebaCheckBoxKontrola\bin\Debug\UpotrebaCheckBoxKontrola.pdb
+C:\Users\ucenik\source\repos\UpotrebaCheckBoxKontrola\UpotrebaCheckBoxKontrola\obj\Debug\UpotrebaCheckBoxKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\UpotrebaCheckBoxKontrola\UpotrebaCheckBoxKontrola\obj\Debug\UpotrebaCheckBoxKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\UpotrebaCheckBoxKontrola\UpotrebaCheckBoxKontrola\obj\Debug\UpotrebaCheckBoxKontrola.Form1.resources
+C:\Users\ucenik\source\repos\UpotrebaCheckBoxKontrola\UpotrebaCheckBoxKontrola\obj\Debug\UpotrebaCheckBoxKontrola.Properties.Resources.resources
+C:\Users\ucenik\source\repos\UpotrebaCheckBoxKontrola\UpotrebaCheckBoxKontrola\obj\Debug\UpotrebaCheckBoxKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\UpotrebaCheckBoxKontrola\UpotrebaCheckBoxKontrola\obj\Debug\UpotrebaCheckBoxKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\UpotrebaCheckBoxKontrola\UpotrebaCheckBoxKontrola\obj\Debug\UpotrebaCheckBoxKontrola.exe
+C:\Users\ucenik\source\repos\UpotrebaCheckBoxKontrola\UpotrebaCheckBoxKontrola\obj\Debug\UpotrebaCheckBoxKontrola.pdb
